@@ -1,10 +1,10 @@
 <? php 
 
 
-require_once 'src/Models/Trees/FruitTree.php';
-require_once 'src/Models/Trees/AppleTree.php';
-require_once 'src/Models/Trees/PearTree.php';
-require_once 'src/Models/Orchard.php';
+require_once 'src/Trees/FruitTree.php';
+require_once 'src/Trees/AppleTree.php';
+require_once 'src/Trees/PearTree.php';
+require_once 'src/Orchard.php';
 
 
 $orchard = new Orchard();
